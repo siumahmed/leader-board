@@ -1,0 +1,37 @@
+body{
+    background-color: #E5E5E5;
+}
+.text{
+    padding-right: 5px;
+}
+main{
+    max-width: 870px;
+}
+.player img{
+    width: 56px;
+}
+hr{
+    color: #D1D1D1;
+}
+.card{
+    border: none;
+    width: 224px;
+}
+.card-img-top{
+    width: 224px;
+}
+#main{
+    grid-template-columns: 50% 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
